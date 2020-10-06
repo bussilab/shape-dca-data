@@ -12,6 +12,7 @@ SOURCE   5 EXPRESSION_SYSTEM_TAXID: 10760
 KEYWDS    RNA, RIBOSWITCH, ZMP, AICAR                                           
 EXPDTA    X-RAY DIFFRACTION                                                     
 AUTHOR    J.J.TRAUSCH,R.T.BATEY                                                 
+REVDAT   3   25-DEC-19 4XW7    1       REMARK                                   
 REVDAT   2   27-SEP-17 4XW7    1       JRNL   REMARK                            
 REVDAT   1   09-SEP-15 4XW7    0                                                
 JRNL        AUTH   J.J.TRAUSCH,J.G.MARCANO-VELAZQUEZ,M.M.MATYJASIK,R.T.BATEY    
